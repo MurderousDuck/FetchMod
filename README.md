@@ -5,8 +5,8 @@ Fetch is a keyword that represents choosing a card from one of your piles and pl
 
 Patched Cards:
 
-All for One
-Hologram
-Secret Technique
-Secret Weapon
-Seek
+All for One 
+Hologram 
+Secret Technique 
+Secret Weapon 
+Seek 
