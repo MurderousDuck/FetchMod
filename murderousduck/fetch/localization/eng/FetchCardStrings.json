@@ -28,5 +28,9 @@
     "NAME": "Seek",
     "DESCRIPTION": "Fetch !M! card from your draw pile. NL Exhaust.",
     "UPGRADE_DESCRIPTION": "Fetch !M! cards from your draw pile. NL Exhaust."
-  }
+  },
+    "Exhume": {
+    "NAME": "Exhume",
+    "DESCRIPTION": "Fetch a card from your exhaust pile. NL Exhaust."
+  } 
 }
