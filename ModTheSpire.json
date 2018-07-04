@@ -1,0 +1,8 @@
+{
+  "modid": "fetchmod",
+  "name": "FetchMod",
+  "author_list": ["MurderousDuck"],
+  "description": "Introduces a new keyword for getting a card directly from your draw or discard pile called Fetch",
+  "version": "1.0.0",
+  "mts_version": "2.7.0"
+}

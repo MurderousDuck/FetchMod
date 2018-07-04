@@ -1,0 +1,32 @@
+{
+  "All For One": {
+    "NAME": "All for One",
+    "DESCRIPTION": "Deal !D! damage. Fetch all 0 cards from your discard pile"
+  },
+	"Hologram": {
+    "NAME": "Hologram",
+    "DESCRIPTION": "Gain !B! Block. NL Fetch a card from your discard pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Fetch a card from your discard pile."
+  },
+	"Secret Technique": {
+    "NAME": "Secret Technique",
+    "DESCRIPTION": "Fetch a Skill from your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Fetch a Skill from your draw pile.",
+    "EXTENDED_DESCRIPTION": [
+      "There are no Skills NL in my draw pile."
+    ]
+  },
+    "Secret Weapon": {
+    "NAME": "Secret Weapon",
+    "DESCRIPTION": "Fetch an Attack from your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Fetch an Attack from your draw pile.",
+    "EXTENDED_DESCRIPTION": [
+      "There are no Attacks NL in my draw pile."
+    ]
+  },
+    "Seek": {
+    "NAME": "Seek",
+    "DESCRIPTION": "Fetch !M! card from your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Fetch !M! cards from your draw pile. NL Exhaust."
+  }
+}
