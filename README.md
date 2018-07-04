@@ -10,3 +10,4 @@ Hologram
 Secret Technique  
 Secret Weapon  
 Seek  
+Exhume
